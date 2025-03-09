@@ -1,0 +1,10 @@
+django
+djangorestframework
+drf-spectacular
+requests
+gunicorn
+django-import-export
+django-cors-headers
+python-dotenv
+markdown
+djangorestframework-simplejwt
